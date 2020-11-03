@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="profile_fakultas">Profile Fakultas</string>
+    <string name="logo">TODO</string>
+    <string name="detail">detail</string>
+    <string name="todo">TODO</string>
+    <string name="nama_fakultas">Nama Fakultas</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="detaill">Detail</string>
+    <string name="profil_fakultas_upn">PROFIL FAKULTAS UPN</string>
+</resources>
